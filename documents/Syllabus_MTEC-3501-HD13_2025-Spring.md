@@ -1,4 +1,4 @@
-## MTEC 3501: CULMINATION PROJECT DEVELOPMENT      
+## SYLLABUS MTEC 3501: CULMINATION PROJECT DEVELOPMENT      
 <img src="https://raw.githubusercontent.com/davidbrucesmith/Smith-MTEC3501-HD13-2025S/main/assets/images/DALL%C2%B7E%202025-01-26%2010.48.43%20-%20MTEC3501-logo%20.jpeg"  alt="MTEC3501 Logo" style="width: 250px; height: auto;">
 
 Emerging Media Technology (MTEC)   
@@ -15,10 +15,11 @@ Modality: Hybrid synchronous
 Location: Voorhees 103B and Zoom (find meeting link via email and Discord): GitHub for asynchronous activity      
 Professor: David B. Smith  
 Course site: [GitHub](https://github.com/davidbrucesmith/Smith-MTEC3501-HD13-2025S)                
-Discord: see email for invitation        
-Email: allison.berkoy48@citytech.cuny.edu  
-Office hours: Tuesdays 2-4 PM, and by appointment       
-_[Sign up for office hours time slots through Calendly](https://calendly.com/aberkoy)_      
+Discord:         
+Email: dsmith@citytech.cuny.edu  
+Discord User: https://discord.gg/szgY4kMq
+Office hours: Tuesdays 2-4 PM Open Hours, and by appointment (contact me via Discord)
+
 
 ### COURSE DESCRIPTION  
 
@@ -138,15 +139,15 @@ Part II. Inclusivity Statement
 It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as an asset, resource, strength, and benefit, rather than a checklist item or worse, a hindrance. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups. Feel free to reach out to me via email or Discord at any time about any issues concerning you or with any such ideas.
 
   
-## COURSE SCHEDULE / CALENDAR  
+## COURSE SCHEDULE / CALENDAR  STILL UNDER CONSTRUCTION!  YOU CAN TRUST WEEK 1!!!
 _The topics and schedule are subject to change as needed. Assignment details and requirements are announced in class and posted to our GitHub Wiki each week. Classes meeting at Voorhees V-103B are designated below as "IN PERSON". All other classes meet on Zoom._  
 
-**WEEK 1: M 9/9 (ZOOM)**   
+**WEEK 1: M 1/27 (IN PERSON)**   
 * Introductions 
 * Getting organized   
 * Design improvisation exercises
 
-**WEEK 2: M 9/16 (ZOOM)**   
+**WEEK 2: M  (ZOOM)**   
 * Brainstorming, brainstorming, brainstorming   
 * Strategies for getting unstuck     
   
@@ -155,7 +156,7 @@ _The topics and schedule are subject to change as needed. Assignment details and
 * Precedent research   
 * Show and Tell Presentations - Group A- Bruce, Jason, Hugo, Jay, Osak         
 
-**WEEK 4: M 9/30 (IN PERSON)**   
+**WEEK 4: M 9/30 (ZOOM)**   
 * Feedback Forum - 3 Ideas    
 * Show and Tell Presentations - Group B - Sen, Nate, Reggie, Peter, Eddie     
  
