@@ -1,4 +1,6 @@
-## MTEC 3501: CULMINATION PROJECT DEVELOPMENT       
+## MTEC 3501: CULMINATION PROJECT DEVELOPMENT      
+<img src="https://raw.githubusercontent.com/davidbrucesmith/Smith-MTEC3501-HD13-2025S/main/assets/images/DALL%C2%B7E%202025-01-26%2010.48.43%20-%20MTEC3501-logo%20.jpeg"  alt="MTEC3501 Logo" style="width: 250px; height: auto;">
+
 Emerging Media Technology (MTEC)   
 Department of Entertainment Technology   
 New York City College of Technology  
@@ -20,25 +22,35 @@ _[Sign up for office hours time slots through Calendly](https://calendly.com/abe
 
 ### COURSE DESCRIPTION  
 
-Students dedicate 3 classroom hours and 6 independent study hours per week to begin the process of producing a capstone project, suitable for use as a portfolio item in applications for graduate school or professional employment. Projects may be undertaken individually or in small groups. Students develop their ideas, research prior art, break down proposed work into a sequence of executable components with estimated times-to-completion, iterate through prototypes, and document their work. This course is a prerequisite for ENT 4501 Culmination Project, in which students finalize and present the work begun in Culmination Project Development. Ideally, students will take the two courses consecutively.   
+Students dedicate three classroom hours and six independent study hours per week to begin the process of producing a capstone project, suitable for use as a portfolio item in applications for graduate school or professional employment. Projects may be undertaken individually or in small groups. Students develop their ideas, research prior art, break down proposed work into a sequence of executable components with estimated times-to-completion, iterate through prototypes, and document their work. This course is a prerequisite for ENT 4501 Culmination Project, in which students finalize and present the work begun in Culmination Project Development. Ideally, students will take the two courses consecutively, as this should be considered a single year long initiative that transcends the boundaries of the semester.
      
   
 ### LEARNING OUTCOMES       
-For the successful completion of this course, a student should be able to:      
-* employ industry standard brainstorming techniques, both alone and in groups.  
-* utilize best practices in design documentation.   
-* give and receive feedback on project ideas.    
-* conduct precedent and technical research for projects.    
-* develop a complete project proposal.  
-* demonstrate a testable prototype or proof of concept for their project.
-* Develop proficiencies in the use of version control and projecxt management tools
-* Document your efforts through the five stages of every project or subproject:
-  - Research
-  - Design
-  - Produce/Make
-  - Present/Publish
-  - Assess
-    
+### **Learning Outcomes (Organized by Project Design Stages)**
+
+#### **Research**
+1. Conduct precedent and technical research using advanced tools, including AI-assisted information retrieval and analysis, to inform project development.
+
+2. Utilize industry-standard brainstorming techniques and collaborative digital tools to generate and refine innovative project ideas.
+
+#### **Design**
+3. Apply best practices in design documentation, incorporating digital collaboration platforms and version-controlled systems to ensure transparency and iterative development.
+
+4. Create comprehensive project proposals that integrate iterative research, prototyping methodologies, and technology-driven innovation.
+
+#### **Produce/Make**
+5. Develop and showcase a functional, testable prototype or proof of concept that leverages modern MTEC tools, including AI-driven holographic elements when applicable.
+
+6. Achieve proficiency in modern version control (e.g., GitHub) and project management tools (e.g., Trello, Notion), incorporating AI-enhanced planning and tracking systems.
+
+#### **Present/Publish**
+7. Develop skills in providing and incorporating structured feedback, leveraging peer collaboration and AI-driven analysis tools.
+
+8. Present your project ideas, proposals, and prototypes effectively to diverse audiences, incorporating modern presentation tools and techniques.
+
+#### **Assess**
+9. Document your efforts systematically through the five stages of a project—Research, Design, Produce, Present/Publish, and Assess—utilizing modern tools to streamline the process and ensure reflective learning.
+
 
   
 ## COURSE MATERIALS           
