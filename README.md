@@ -10,7 +10,7 @@ Startup actions
   - Make sure Nickname is easily identifiable as you! [Link on how to do this](https://www.wikihow.com/Change-Discord-Nickname)
 - Join GitHub
   - Provide your User Name to me in order to join [this Github repository](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S)
-  - Once again, please use an identifiable usser name or ID.
+  - Once again, please use an identifiable user name or ID.
 - Join Zotero
   - "[Zotero](https://www.zotero.org/) is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research"
   - Link to register for an account can be found [here](https://www.zotero.org/user/register/)
