@@ -133,60 +133,63 @@ Part II. Inclusivity Statement
 It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as an asset, resource, strength, and benefit, rather than a checklist item or worse, a hindrance. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups. Feel free to reach out to me via email or Discord at any time about any issues concerning you or with any such ideas.
 
   
-## COURSE SCHEDULE / CALENDAR  STILL UNDER CONSTRUCTION!  YOU CAN TRUST WEEK 1!!!
+## COURSE SCHEDULE / CALENDAR
 _The topics and schedule are subject to change as needed. Assignment details and requirements are announced in class and posted to our GitHub Wiki each week. Classes meeting at Voorhees V-103B are designated below as "IN PERSON". All other classes meet on Zoom._  
 
-**WEEK 1: M 1/27 (IN PERSON)**   
+**WEEK 1: M Jan 27 (IN PERSON)**   
 * Introductions 
 * Getting organized   
 * Design improvisation exercises
 
-**WEEK 2: M  (ZOOM)**   
+**WEEK 2: M Feb 3  (ZOOM)**   
 * Brainstorming, brainstorming, brainstorming   
 * Strategies for getting unstuck     
   
-**WEEK 3: M 9/23 (IN PERSON)**     
+**WEEK 3: M Feb 10 (IN PERSON)**  
 * Implementing an iterative design process
 * Precedent research   
-* Show and Tell Presentations - Group A- Bruce, Jason, Hugo, Jay, Osak         
+* Show and Tell Presentations - Group A         
 
-**WEEK 4: M 9/30 (ZOOM)**   
+**WEEK 4: TUESDAY Feb 18 (ZOOM)**   
+**Class is on Tuesday!!!!**
 * Feedback Forum - 3 Ideas    
-* Show and Tell Presentations - Group B - Sen, Nate, Reggie, Peter, Eddie     
+* Show and Tell Presentations - Group B     
  
-**WEEK 5: M 10/7 (ZOOM)**      
+**WEEK 5: M Feb 24 (ZOOM)**      
 * Idea Incubator - Proposal Draft Development  
   
-**<<<NO CLASS M 10/14>>>**
-
-**WEEK 6: TUESDAY 10/15 (ZOOM)**     
-(NOTE THE DAY CHANGE! TUESDAY IS A MONDAY SCHEDULE!) 
+**WEEK 6: M March 3 (ZOOM)**     
 * Idea Incubator - Proposal Draft Development (continued)
 
-**WEEK 7: M 10/21 (IN PERSON)**   
+**WEEK 7: M March 10 (IN PERSON)**   
 * Panel 1 - Group A - Project Proposal Presentations 
 
-**WEEK 8: M 10/28 (IN PERSON)**   
+**WEEK 8: M March 17 (IN PERSON)**   
 * Panel 1 - Group B - Project Proposal Presentations
+
+**WEEK 9: M March 24 7 (ZOOM)**   
+* Developing a proof of concept / testable prototype
+* [Minimum Viable Product (MVP)](https://www.agilealliance.org/glossary/mvp/)
+
+**WEEK BREAK NO CLASS ON March 31!!**
         
-**WEEK 9: M 11/4 (ZOOM)**   
-* Developing a proof of concept / testable prototype 
-  
-**WEEK 10: M 11/11 (ZOOM)**      
+**WEEK 10: M April 7 (ZOOM)**      
 * Special Topic TBD
-   
-**WEEK 11: M 11/18 (IN PERSON)**   
+
+**SPRING BREAK NO CLASS M April 14 (April 12-20)**
+  
+**WEEK 11: M April 21 (IN PERSON)**   
 * Prototype and playtesting workshop   
     
-**WEEK 12: M 11/25 (IN PERSON)**      
+**WEEK 12: M April 28 (IN PERSON)**      
 * Prototype and playtesting workshop         
 
-**WEEK 13: M 12/2 (IN PERSON)**    
+**WEEK 13: M May 5 (IN PERSON)**    
 * Panel 2 - Group A - Project Prototype Presentations      
             
-**WEEK 14: M 12/9 (IN PERSON)**    
+**WEEK 14: M May 12 (IN PERSON)**    
 * Panel 2 - Group B - Project Prototype Presentations      
 
-**WEEK 15: M 12/16 (IN PERSON)**    
+**WEEK 15: M May 19 (IN PERSON)**    
 TOPIC   
 * Reflection and next steps for Culmination Projects
