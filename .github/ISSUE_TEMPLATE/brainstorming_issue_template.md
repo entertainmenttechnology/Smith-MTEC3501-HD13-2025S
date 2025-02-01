@@ -2,12 +2,8 @@
 name: "Student Brainstorming Card"
 about: "Lists starting thoughts about the idea"
 title: "[Brainstorming Starter Idea] <Project Title>"
-labels: ["🧠 Brainstorming", "Student Project"]
 assignees: ""
 ---
-
-
-
 
 ## Brainstorming Starter Idea
 
