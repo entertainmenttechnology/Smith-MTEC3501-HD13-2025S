@@ -1,7 +1,7 @@
 ---
 name: "Student Brainstorming Card"
-about: "Lists starting thoughts about the idea"
-title: "[Brainstorming Starter Idea] <Project Title>"
+about: "Starting thoughts about the idea"
+title: "[Your Name] <Project Title>"
 assignees: ""
 ---
 
