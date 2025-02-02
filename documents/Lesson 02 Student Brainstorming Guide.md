@@ -1,6 +1,6 @@
 # Student Guide: Brainstorming & GitHub Activities
 
-This guide provides step-by-step instructions for students participating in brainstorming activities using GitHub.
+This guide provides step-by-step instructions for students participating in brainstorming activities using GitHub.  We will be going through these basic activities in class, but you will then be assigned to continue your brainstorm and development in teh following week.
 
 ---
 
