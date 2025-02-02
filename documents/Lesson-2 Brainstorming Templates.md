@@ -8,11 +8,19 @@ This document provides templates for conducting structured brainstorming activit
 
 Students will create an Issue to document their initial idea and expand it throughout the session.
 
+
 ### **Instructions:**
 - Title your Issue: `[Your Name] – Brainstorming Starter Idea`
 - Use the following template:
 
 ```
+---
+name: "Student Brainstorming Card"
+about: "Starting thoughts about the idea"
+title: "[Your Name] <Project Title>"
+assignees: ""
+---
+
 ## Brainstorming Starter Idea
 
 ### Idea Overview
@@ -33,7 +41,8 @@ What inspired this idea? How did it first come to you?
 
 ## **2. GitHub Comment Template: Yes, And... Expansion**
 
-Students will respond to another student's Issue using this format to expand ideas collaboratively.
+Students will respond to another student's Issue using this format to expand ideas collaboratively.  
+Note: Github does not allow a template to be directly used in a comment, but students can cut and paste the template code from teh instructions in order to do so.
 
 ### **Instructions:**
 - Find a classmate's Issue and add a comment using this template:
