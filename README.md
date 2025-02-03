@@ -1,5 +1,19 @@
 ## README
 
+**Assignment Week 2 (Feb 3 - Feb 9)**
+Continue to work through the document [Student Brainstorming Guide](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/02_Brainstorming/02_Student_Brainstorming_Guide.md)  
+Specifically, 
+[2c. Forced Juxtaposition](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/02_Brainstorming/02_Student_Brainstorming_Guide.md#c-forced-juxtaposition-github-discussions)  
+Everyone will respond to each discussion with additional connections.  You should provide at least two per discussion.  
+
+[2d. "Kill Your Idea"](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/02_Brainstorming/02_Student_Brainstorming_Guide.md#d-kill-your-idea-test-github-pull-requests)  
+This time we will do the collaboration as a Pull request, and all participants will comment with potential solutions as well.  
+
+Note that after each of these, continue to refine your concept Idea.  This will be written into a version 2 for your project idea.
+
+
+
+
 **CLASS Monday FEBRUARY 3 WILL BE ON ZOOM**: 649-104-8253 Passcode 'Advise'  
 
 The Feb 3 Class will imbark on a variety of different brainstorming techniques as well as working with a variety of different GitHub resources.
