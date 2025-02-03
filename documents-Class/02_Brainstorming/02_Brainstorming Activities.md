@@ -1,10 +1,4 @@
-# GitHub Project Template for Student Research Projects
-
-This template is designed to track individual student research projects, linking each to its proposal, repository, and key project details. A shorter **Team Project Card** template is also provided for group projects.
-
----
-
-## **Student Brainstorming Activities**
+## **Student Brainstorming Activities Chart **
 
 The following table outlines the activities students will complete, ensuring each introduces a different brainstorming method while also teaching a GitHub feature.
 
