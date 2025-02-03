@@ -98,7 +98,8 @@ GitHub has its own highly developed users manuals and documentation.  This can b
 ---
 
 ### **B. "Yes, And..." Expansion (GitHub Comments + Breakout Rooms)**
-**Objective:** Expand on a classmate’s idea using positive iteration.
+**Objective:** Expand on a classmate’s idea using positive iteration.  
+**Additional Information:** [Yes And Wiki page](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/wiki/Brainstorming%E2%80%90Yes%E2%80%90And)  
 
 #### **Instructions:**
 1. Select a classmate’s **Brainstorming Starter Idea Issue**.
