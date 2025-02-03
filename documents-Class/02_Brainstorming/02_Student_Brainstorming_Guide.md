@@ -90,7 +90,8 @@ GitHub has its own highly developed users manuals and documentation.  This can b
    - **Inspiration:** Explain what inspired your idea.
    - **Initial Thoughts:** List key elements and challenges.
 5. Assign the label `🧠 Brainstorming`.
-6. Click **Submit new issue**.
+6. Assign the issue to yourself.  
+7. Click **Submit new issue**.
 
 ✅ **After Submission:** Reply to your own issue with any spontaneous ideas that come later.
 
