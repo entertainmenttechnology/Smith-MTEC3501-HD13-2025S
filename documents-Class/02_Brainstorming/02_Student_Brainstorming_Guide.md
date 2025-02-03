@@ -16,6 +16,54 @@ This guide provides step-by-step instructions for students participating in brai
 
 ✅ **Check:** Make sure you can access **Issues, Discussions, and the Wiki**.
 
+### **Step 3: Creating a Branch, Folder, and Submitting a Pull Request**
+
+✅ **Goal:** Learn how to create a personal workspace in GitHub and merge changes back into the main repository.
+
+#### **3.1: Create a New Branch**
+1. Navigate to the **class repository** on GitHub.
+2. Click the **Branches** dropdown next to the repository name.
+3. Type your branch name in the format:  
+   ```
+   [your-name]-branch
+   ```
+   (e.g., `alex-smith-branch`).
+4. Click **Create branch**.
+
+#### **3.2: Create a Personal Folder**
+1. Inside your branch, go to the repository’s **File Explorer**.
+2. Navigate to the `/projects/` directory.
+3. Click **Add File** → **Create new file**.
+4. In the filename box, type:
+   ```
+   projects/[your-name]/placeholder.txt
+   ```
+   (This ensures your folder gets created: we will delete this file later once we have actual material in the folder).
+
+#### **3.3: Upload Your Project Idea File**
+1. Inside your personal folder (`/projects/[your-name]/`), create or upload a file:
+   ```
+   project_idea.md
+   ```
+2. In the document, include:
+   - **Project Title**
+   - **Description**
+   - **Key Goals**
+   - **Initial Brainstorming Notes**
+3. Click **Commit changes**.
+
+#### **3.4: Open a Pull Request (PR)**
+1. Navigate to the **Pull Requests** tab in the repository.
+2. Click **New Pull Request**.
+3. Select your branch (`[your-name]-branch`) as the **compare branch**.
+4. Ensure the **base branch** is `main`.
+5. Add a **title and description** for the PR.
+6. Click **Create Pull Request**.
+7. Wait for feedback from classmates and instructors before merging.
+
+✅ **Best Practice:** Always work on your **own branch** and submit a **Pull Request** to merge changes back to the main branch.
+
+
 ---
 
 ## **2. Brainstorming Activity Guide**
