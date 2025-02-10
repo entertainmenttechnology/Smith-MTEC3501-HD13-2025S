@@ -90,14 +90,16 @@ GitHub has its own highly developed users manuals and documentation.  This can b
    - **Inspiration:** Explain what inspired your idea.
    - **Initial Thoughts:** List key elements and challenges.
 5. Assign the label `🧠 Brainstorming`.
-6. Click **Submit new issue**.
+6. Assign the issue to yourself.  
+7. Click **Submit new issue**.
 
 ✅ **After Submission:** Reply to your own issue with any spontaneous ideas that come later.
 
 ---
 
 ### **B. "Yes, And..." Expansion (GitHub Comments + Breakout Rooms)**
-**Objective:** Expand on a classmate’s idea using positive iteration.
+**Objective:** Expand on a classmate’s idea using positive iteration.  
+**Additional Information:** [Yes And Wiki page](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/wiki/Brainstorming%E2%80%90Yes%E2%80%90And)  
 
 #### **Instructions:**
 1. Select a classmate’s **Brainstorming Starter Idea Issue**.
