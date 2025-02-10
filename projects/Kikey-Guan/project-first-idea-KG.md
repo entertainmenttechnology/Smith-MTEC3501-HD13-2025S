@@ -17,3 +17,5 @@ Initial Brainstorming Notes:
 - shopping online or In-store purchase
 - shimeji desktop pet?
 - are you able to synthesize items? different genres? (sci-if, fantasy, etc?)
+
+doc link [([linkhere](https://www.cuny.edu/))]
