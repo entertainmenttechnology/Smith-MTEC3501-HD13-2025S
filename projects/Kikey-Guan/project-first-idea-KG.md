@@ -18,4 +18,4 @@ Initial Brainstorming Notes:
 - shimeji desktop pet?
 - are you able to synthesize items? different genres? (sci-if, fantasy, etc?)
 
-doc link [linkhere](https://www.cuny.edu/)
+doc link [testing link](https://www.cuny.edu/)
