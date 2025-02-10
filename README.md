@@ -3,10 +3,12 @@
 **Week 3 Feb 10 WILL BE IN PERSON**   
 Class Activity
 - We meet in V103B.  We continue brainstorming.  We also continue to develop our skills in GitHub project management.  
-- Today we also look at milestones and set these dates into the project calendar.  
+- Today we also look at milestones and set these dates into the project calendar.
 
-**Assignment Week 2 (Feb 3 - Feb 9)**
-Continue to work through the document [Student Brainstorming Guide](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/02_Brainstorming/02_Student_Brainstorming_Guide.md)  
+---
+
+**Assignment Week 2 (Feb 3 - Feb 9)**  
+Continue to work through the document [Student Brainstorming Guide](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/02_Brainstorming/02_Student_Brainstorming_Guide.md)   
 Specifically, 
 [2c. Forced Juxtaposition](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/02_Brainstorming/02_Student_Brainstorming_Guide.md#c-forced-juxtaposition-github-discussions)  
 Everyone will respond to each discussion with additional connections.  You should provide at least two per discussion.  
