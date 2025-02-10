@@ -1,1 +1,1 @@
-This is my readmea file for My AIPlantMonitoring Project
+This is my first README file for My AIPlantMonitoring Project
