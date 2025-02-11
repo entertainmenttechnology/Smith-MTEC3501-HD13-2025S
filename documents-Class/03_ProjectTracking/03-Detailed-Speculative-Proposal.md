@@ -7,6 +7,8 @@ The purpose of this assignment is to **develop a detailed speculative proposal**
 
 This proposal is meant to be **detailed but not necessarily correct**—the goal is to **commit to specifics** even if they feel incorrect or you know they will change later. The act of defining clear ideas now will help you iterate, refine, and improve your project over time. 
 
+Once complete, add this file to your GitHub folder in the "Projects" Directory.  Make sure to use your branch, and then we will merge during class.
+
 ### **Key Principles**
 - **Specificity over Generality** – A vague idea cannot be built. Be as detailed as possible.
 - **Speculative, Not Final** – You will revise your ideas as you progress.
