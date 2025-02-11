@@ -2,7 +2,7 @@
 ## Week 3 Assignment: Structuring Milestones for the March 10 Presentation  
 
 ## Objective  
-This week, you will **develop your project milestones** in preparation for your **March 10 presentation** to a **panel of professionaljurists**. The goal is to **formally structure your project ideas, develop a clear set interrelated tasks, create clear documentation, and prepare for professional evaluation and feedback**.  
+This week, you will **develop your project milestones** in preparation for your **March 10 presentation** to a **panel of professional jurists**, who will evaluate your proposal and make suggestions. The goal is to **formally structure your project ideas, develop a clear set interrelated tasks, create clear documentation, and prepare for professional evaluation and feedback**.  
 
 ---
 
