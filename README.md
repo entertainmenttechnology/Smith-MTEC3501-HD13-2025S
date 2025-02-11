@@ -6,7 +6,7 @@ There are two major thrusts for this week's assignments.
 
 1. Create a Speculative detailed proposal.  This does not have to be accurate, it just needs to be DETAILED.  If you have quesitons, don't worry, just put something down.
 Here is a link to the [Detailed Assignment](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/03_ProjectTracking/03-Detailed-Speculative-Proposal.md).
-2. Create Milestones and Issues for your upcoming presentation on March 10.  You will also populate your Project with milestones and issues that will be needed to be completed in order to meet the goal of the presentation. 
+2. Create Milestones and Issues for your upcoming presentation on March 10.  You will also populate your Project with milestones and issues that will be needed to be completed in order to meet the goal of the presentation. [Milestone Assignment](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/03_ProjectTracking/03-Structuring_Milestones_for_Presentation.md).  A file that describes [how to create a milestone](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/03_ProjectTracking/Create_A_Milestone.md) can be found as well.
 
 **Week 3 Feb 10 WILL BE IN PERSON**   
 Class Activity
