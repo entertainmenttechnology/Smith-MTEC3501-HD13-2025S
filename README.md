@@ -8,6 +8,10 @@ There are two major thrusts for this week's assignments.
 Here is a link to the [Detailed Assignment](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/03_ProjectTracking/03-Detailed-Speculative-Proposal.md).
 2. Create Milestones and Issues for your upcoming presentation on March 10.  You will also populate your Project with milestones and issues that will be needed to be completed in order to meet the goal of the presentation. [Milestone Assignment](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/03_ProjectTracking/03-Structuring_Milestones_for_Presentation.md).  A file that describes [how to create a milestone](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/documents-Class/03_ProjectTracking/Create_A_Milestone.md) can be found as well.
 
+I created an example proposal and placed it into David B. Student's folder.   [Link](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/projects/David-Student/DBStudent-Clamorous%20ELF%20Detailed%20Speculative%20Proposal.md)  
+
+Let me know if you have any questions!
+
 **Week 3 Feb 10 WILL BE IN PERSON**   
 Class Activity
 - We meet in V103B.  We continue brainstorming.  We also continue to develop our skills in GitHub project management.  
