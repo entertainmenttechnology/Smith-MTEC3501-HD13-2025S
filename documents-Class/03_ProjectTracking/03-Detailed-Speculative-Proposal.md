@@ -3,9 +3,11 @@ Dr. David B. Smith
 2025-02-11 creation date.
 
 ## **Objective**  
-The purpose of this assignment is to **develop a detailed speculative proposal** that describes both an **idealized "Climax Version"** of your project and a **practical "Least Viable Product (LVP) Version"** that you can realistically build during this semester. The idealized version may likely be larger than what you can accomplish even with MTEC 4501
+The purpose of this assignment is to **develop a detailed speculative proposal** that describes both an **idealized "Climax Version"** of your project and a **practical "Least Viable Product (LVP) Version"** that you can realistically build during this semester. The idealized version may likely be larger than what you can accomplish even with MTEC 4501.  The assignment is in two parts:  the proposal itself, and then your speculation on its strengths and weaknesses.  
 
 This proposal is meant to be **detailed but not necessarily correct**—the goal is to **commit to specifics** even if they feel incorrect or you know they will change later. The act of defining clear ideas now will help you iterate, refine, and improve your project over time. 
+
+Once complete, add this file to your GitHub folder in the "Projects" Directory.  Make sure to use your branch, and then we will merge during class.
 
 ### **Key Principles**
 - **Specificity over Generality** – A vague idea cannot be built. Be as detailed as possible.
@@ -32,7 +34,7 @@ Describe what your project would be in its **most complete, ambitious form**. If
 - **Creative Components**: Explain the artistic, narrative, or interactive elements of the project.
 - **Expected Impact**: What does this project accomplish? Who is it for?
 
-### **3. Least Viable Product (LVP) Version (Achievable This Semester)**  
+### **3. Least Viable Product (LVP) prototype Version (Achievable This Semester)**  
 The **LVP is a stripped-down but functional version** of your project. It should preserve the **core essence of the Climax Version** but be simplified so that it can be built and tested within the semester.
 - **Core Features**: The absolute minimum set of features needed to demonstrate the idea.
 - **What It Can Do**: Define a simple, testable interaction or function.
