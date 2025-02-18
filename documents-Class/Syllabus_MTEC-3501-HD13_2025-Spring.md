@@ -147,13 +147,14 @@ _The topics and schedule are subject to change as needed. Assignment details and
   
 **WEEK 3: M Feb 10 (IN PERSON)**  
 * Implementing an iterative design process
-* Precedent research   
-* Show and Tell Presentations - Group A         
+     
 
 **WEEK 4: TUESDAY Feb 18 (ZOOM)**   
 **Class is on Tuesday!!!!**
-* Feedback Forum - 3 Ideas    
-* Show and Tell Presentations - Group B     
+* Detailed Speculative Proposal
+* Feedback Forum - 3 Ideas
+* Precedent research      
+* Milestones and presentation planning
  
 **WEEK 5: M Feb 24 (ZOOM)**      
 * Idea Incubator - Proposal Draft Development  
