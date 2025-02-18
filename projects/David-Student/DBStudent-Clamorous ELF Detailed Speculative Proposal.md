@@ -3,9 +3,9 @@
 ## David B Student, 2025-02-11
 ## Version 1.0
 
-<img src="https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/projects/David-Student/assets/Clamorous%20Elf%20Icon.jpg" alt="C-ELF icon" width="300" height="300">
 
-## Concept Overview  
+<img src="https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/projects/David-Student/assets/Clamorous%20Elf%20Icon.jpg"
+alt="C-ELF Icon" width="300">  
 *Clamorous E.L.F.* is an **AI-powered interactive media system** that explores **emergent creativity through collaborative improvisation between humans, AI, and environmental stimuli**. It is not a passive generative system—it is a **co-creative entity**, constantly responding, adapting, and evolving based on **human input, audience contributions, and environmental factors**. The name reflects both its **mischievous, unpredictable nature** and serves as an acronym:
 
 **Clamorous** comes from the Latin root clāmōr, meaning "shout." If you're a clamorous person, you're not just loud, but you're also kind of aggressive about it. Likewise, ELF is not a subtle environment, and reacts with great fervor to any detected input.
