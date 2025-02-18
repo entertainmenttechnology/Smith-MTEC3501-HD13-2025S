@@ -1,5 +1,10 @@
 ## README
 
+**Week 4 Class Feb 18 (Tuesday is on Monday Schedule)**  
+
+Will be on Zoom  
+649-104-8253 Passcode 'Advise'
+
 **Week 3 Assignments**
 
 There are two major thrusts for this week's assignments.
@@ -11,7 +16,7 @@ Here is a link to the [Detailed Assignment](https://github.com/entertainmenttech
 I created an example proposal and placed it into David B. Student's folder.   [Link](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/projects/David-Student/DBStudent-Clamorous%20ELF%20Detailed%20Speculative%20Proposal.md)  
 
 Let me know if you have any questions!
-
+---
 **Week 3 Feb 10 WILL BE IN PERSON**   
 Class Activity
 - We meet in V103B.  We continue brainstorming.  We also continue to develop our skills in GitHub project management.  
