@@ -11,13 +11,13 @@ Students must submit the following **before** their March 17 presentation.
 | **Category** | **Deliverable** | **Description** | **Submission Format** |
 |-------------|---------------|----------------|------------------|
 | 🎤 **Oral Presentation (Main Deliverable)** | **10-minute project pitch** | A structured verbal presentation covering project scope, feasibility, research, milestones, and what the prototype will be. | **Live panel presentation (March 17, in-person)** |
-| 🎥 **Presentation Slides** | **Google Slides or PDF Deck** | A concise, **visually structured presentation**, with examples and research references. | **Google Drive (in "Panel-1-Deliverables" folder), linked in GitHub Issue** |
-| 📖 **Research & Precedents** | **Annotated Research Bibliography** | List of relevant research, inspirations, and technical references, stored in **Zotero** and linked in the proposal. | **Zotero Library (shared link in GitHub Issue)** |
-| 📝 **Written Proposal** | **Refined Speculative Proposal (Climax + Prototype Plan)** | The core document outlining the full vision (**Climax**) and what the prototype will be. | **GitHub (Markdown file in "Projects" folder, student branch)** |
+| 📖 **Research & Precedents** | **Annotated Research Bibliography** | List of relevant research, inspirations, and technical references, stored in **Zotero** and linked in the proposal. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Research" folder)** |
+| 📝 **Written Proposal** | **Refined Speculative Proposal (Climax + Prototype Plan)** | The core document outlining the full vision (**Climax**) and what the prototype will be. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Proposal" folder)** |
 | 🏗 **Project Planning** | **Milestone & Issue Tracking in GitHub** | A structured breakdown of the project into **at least 3 milestones** and **5 GitHub issues** tied to phases. | **GitHub Project Board (Milestones & Issues tab)** |
-| 🎯 **Prototype Plan** | **Description of the prototype (not built yet)** | A document explaining **what the prototype will be, its key functions, and what needs to be built first**. | **GitHub (Markdown file in "Prototype-Planning" folder)** |
-| 🤖 **AI Usage Report** | **Brief summary of AI tools used** | A short write-up on any **AI tools** used in research, design, or planning, describing **how AI was used** and its impact. | **GitHub (Markdown file in "AI-Usage" folder)** |
-| 🎯 **Self-Assessment & Feedback Reflection** | **Project Feasibility Summary** | A **300-500 word write-up** summarizing **project feasibility, challenges, and areas needing feedback**. | **GitHub (Markdown file in "Reflections" folder)** |
+| 🎥 **Presentation Slides** | **Google Slides or PDF Deck** | A concise, **visually structured presentation**, with examples and research references. | **Google Drive (in "Panel-1-Deliverables" folder), linked in GitHub Issue** |
+| 🎯 **Prototype Plan** | **Description of the prototype (not built yet)** | A document explaining **what the prototype will be, its key functions, and what needs to be built first**. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Prototype-Planning" folder)** |
+| 🤖 **AI Usage Report** | **Brief summary of AI tools used** | A short write-up on any **AI tools** used in research, design, or planning, describing **how AI was used** and its impact. | **GitHub (Markdown file in each student's "Projects/[StudentName]/AI-Usage" folder)** |
+| 🎯 **Self-Assessment & Feedback Reflection** | **Project Feasibility Summary** | A **300-500 word write-up** summarizing **project feasibility, challenges, and areas needing feedback**. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Reflections" folder)** |
 
 ---
 
@@ -57,12 +57,12 @@ Each student should structure their **oral presentation** following this flow:
 📌 **Oral Presentation:** **Delivered live on March 17**  
 📌 **Google Drive:** Upload slides as a PDF in `Panel-1-Deliverables/`  
 📌 **GitHub:**  
-- **Proposal document** → `Projects/` folder  
+- **Proposal document** → `Projects/[StudentName]/Proposal/` folder  
 - **Milestones & issues** → GitHub Project Board  
-- **Research bibliography link** → GitHub Issue  
-- **Prototype Plan** → `Prototype-Planning/` folder  
-- **AI Usage Report** → `AI-Usage/` folder  
-- **Self-assessment reflection** → `Reflections/` folder  
+- **Research bibliography link** → `Projects/[StudentName]/Research/` folder  
+- **Prototype Plan** → `Projects/[StudentName]/Prototype-Planning/` folder  
+- **AI Usage Report** → `Projects/[StudentName]/AI-Usage/` folder  
+- **Self-assessment reflection** → `Projects/[StudentName]/Reflections/` folder  
 
 ---
 
@@ -100,5 +100,5 @@ Milestones should align with the **five project phases**:
    - Prepare and practice the **10-minute presentation**.  
    - Write a self-reflection on **progress & challenges**.  
    - Document AI usage in research, design, or planning.  
-
+```
 
