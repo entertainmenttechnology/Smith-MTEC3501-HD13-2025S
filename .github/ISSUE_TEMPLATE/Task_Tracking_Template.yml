@@ -21,21 +21,6 @@ body:
     validations:
       required: true
 
-  - type: dropdown
-    id: related_milestone
-    attributes:
-      label: 🔹 Related Milestone
-      description: Select the milestone this task is part of.
-      options:
-        - Research
-        - Design
-        - Production
-        - Publishing
-        - Assessment
-        - Other (Specify below)
-    validations:
-      required: true
-
   - type: textarea
     id: task_description
     attributes:
@@ -49,7 +34,7 @@ body:
     id: task_dependencies
     attributes:
       label: 🔗 Dependencies (if any)
-      description: Are there any tasks or resources that must be completed before this one?
+      description: Are there any tasks or resources that must be completed before this one?  You can link to an existing issue
       placeholder: "E.g., This task depends on completing initial research."
     validations:
       required: false
@@ -60,18 +45,6 @@ body:
       label: ✅ Completion Criteria
       description: Define what success looks like for this task.
       placeholder: "E.g., Research document uploaded, GitHub repo updated, prototype tested."
-    validations:
-      required: true
-
-  - type: dropdown
-    id: priority
-    attributes:
-      label: ⚡ Priority Level
-      description: Select the priority of this task.
-      options:
-        - High
-        - Medium
-        - Low
     validations:
       required: true
 
