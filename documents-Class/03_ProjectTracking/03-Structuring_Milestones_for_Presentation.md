@@ -1,5 +1,7 @@
 # MTEC 4502: Project Planning and Research Development Assignment  
 ## Week 3 Assignment: Structuring Milestones for the March 17 Presentation  
+Created 2025-02-11  
+Modified 2025-02-18  
 
 ## Objective  
 This week, you will **develop your project milestones** in preparation for your **March 17 presentation** to a **panel of professional jurists**, who will evaluate your proposal and make suggestions. The goal is to **formally structure your project ideas, develop a clear set interrelated tasks, create clear documentation, and prepare for professional evaluation and feedback**.  
