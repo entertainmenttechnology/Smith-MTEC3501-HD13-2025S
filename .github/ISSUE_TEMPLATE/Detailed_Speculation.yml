@@ -41,6 +41,13 @@ body:
       description: "Describe what your project would be in its most complete form."
       placeholder: "If time and resources were unlimited, what would this become?"
 
+ - type: textarea
+    id: least_viable_product
+    attributes:
+      label: "Least Viable Product (Most likely to be presented at end of ENT4501)"
+      description: "Describe what your project will do for the culmination project."
+      placeholder: "Based on an additional semester of time and resources, what can I accomplish?"
+
   - type: textarea
     id: technology_systems
     attributes:
@@ -65,7 +72,7 @@ body:
   - type: textarea
     id: prototype_version
     attributes:
-      label: "Prototype Plan (Achievable This Semester)"
+      label: "Prototype Plan (To be presented at end of this semester)"
       description: "Describe what the prototype will be and what core features it will demonstrate."
       placeholder: "Define a simple, testable interaction or function."
 
