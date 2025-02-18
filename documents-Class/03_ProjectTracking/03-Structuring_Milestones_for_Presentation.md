@@ -1,19 +1,19 @@
 # MTEC 4502: Project Planning and Research Development Assignment  
-## Week 3 Assignment: Structuring Milestones for the March 10 Presentation  
+## Week 3 Assignment: Structuring Milestones for the March 17 Presentation  
 
 ## Objective  
-This week, you will **develop your project milestones** in preparation for your **March 10 presentation** to a **panel of professional jurists**, who will evaluate your proposal and make suggestions. The goal is to **formally structure your project ideas, develop a clear set interrelated tasks, create clear documentation, and prepare for professional evaluation and feedback**.  
+This week, you will **develop your project milestones** in preparation for your **March 17 presentation** to a **panel of professional jurists**, who will evaluate your proposal and make suggestions. The goal is to **formally structure your project ideas, develop a clear set interrelated tasks, create clear documentation, and prepare for professional evaluation and feedback**.  
 
 ---
 
 ## Task 1: Develop a Set of Issues for Milestone Tracking (GitHub Issues)  
-- You will **create GitHub Issues** that break down the key tasks leading up to your **March 10 presentation**.  
+- You will **create GitHub Issues** that break down the key tasks leading up to your **March 17 presentation**.  
 - Your issues should **map out the critical steps** needed to refine your proposal, research, and initial prototypes.  
 - **Each issue should include:**  
   - A **clear title** describing the task.  
   - A **detailed description** of what needs to be completed.  
   - **Relevant labels** (e.g., “Research,” “Development,” “Documentation”).  
-  - **Due dates** leading up to March 10.  
+  - **Due dates** leading up to March 17.  
   - **Any references or links** to external resources.  
 
 ### 📌 Example Issues to Consider:  
@@ -21,14 +21,14 @@ This week, you will **develop your project milestones** in preparation for your 
 2. **[Research] Identify Relevant Industry Examples** – Gather case studies and similar projects for reference.  
 3. **[Design] Define Core Features** – List essential components that make this project unique.  
 4. **[Feedback] Conduct Peer Review** – Share project draft with classmates for early feedback.  
-5. **[Final Touch] Revise Presentation Based on Peer/Jurist Feedback** – Incorporate changes before March 10.  
+5. **[Final Touch] Revise Presentation Based on Peer/Jurist Feedback** – Incorporate changes before March 17.  
 
-✅ **Deliverable:** **Create at least 5 GitHub Issues** that represent your **project milestones leading up to March 10**.  
+✅ **Deliverable:** **Create at least 5 GitHub Issues** that represent your **project milestones leading up to March 17**.  
 
 ---
 
 ## Task 2: Develop a Detailed Proposal (Even If It’s Sketchy)  
-- This proposal will be the foundation of your **March 10 presentation**.  
+- This proposal will be the foundation of your **March 17 presentation**.  
 - Even if you don’t have all the details finalized, you should outline:  
   - **Project Concept**: What is your project about?  
   - **Goals & Expected Outcomes**: What do you want to achieve?  
