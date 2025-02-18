@@ -28,18 +28,18 @@ body:
       placeholder: "Provide details on the main idea and purpose."
 
   - type: textarea
-    id: climax_version
-    attributes:
-      label: "Climax Version (Fully Realized Vision)"
-      description: "Describe what your project would be in its most complete form."
-      placeholder: "If time and resources were unlimited, what would this become?"
-
-  - type: textarea
     id: user_experience
     attributes:
       label: "User Experience"
       description: "How would users interact with your project?"
       placeholder: "Explain the experience from an audience or user perspective."
+
+  - type: textarea
+    id: climax_version
+    attributes:
+      label: "Climax Version (Fully Realized Vision)"
+      description: "Describe what your project would be in its most complete form."
+      placeholder: "If time and resources were unlimited, what would this become?"
 
   - type: textarea
     id: technology_systems
