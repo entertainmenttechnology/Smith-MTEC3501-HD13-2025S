@@ -1,5 +1,10 @@
 ## README
 
+**Week 4 Class Feb 18 (Tuesday is on Monday Schedule)**  
+
+Will be on Zoom  
+649-104-8253 Passcode 'Advise'
+
 **Week 3 Assignments**
 
 There are two major thrusts for this week's assignments.
