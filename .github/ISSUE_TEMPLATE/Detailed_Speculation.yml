@@ -41,7 +41,7 @@ body:
       description: "Describe what your project would be in its most complete form."
       placeholder: "If time and resources were unlimited, what would this become?"
 
- - type: textarea
+  - type: textarea
     id: least_viable_product
     attributes:
       label: "Least Viable Product (Most likely to be presented at end of ENT4501)"
