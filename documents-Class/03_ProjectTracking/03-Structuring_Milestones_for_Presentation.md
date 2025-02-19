@@ -1,14 +1,17 @@
 # MTEC 4502: Project Planning and Research Development Assignment  
-## Week 3 Assignment: Structuring Milestones for the March 17 Presentation  
-Created 2025-02-11  
-Modified 2025-02-18  
 
-## Objective  
-This week, you will **develop your project milestones** in preparation for your **March 17 presentation** to a **panel of professional jurists**, who will evaluate your proposal and make suggestions. The goal is to **formally structure your project ideas, develop a clear set interrelated tasks, create clear documentation, and prepare for professional evaluation and feedback**.  
+## Week 3 Assignment: Structuring Milestones for the March 17 Presentation  
+**Created: 2025-02-11**  
+**Modified: 2025-02-18**  
 
 ---
 
-## Task 1: Develop a Set of Issues for Milestone Tracking (GitHub Issues)  
+## **Objective**  
+This week, you will **develop your project milestones** in preparation for your **March 17 presentation** to a **panel of professional jurists**, who will evaluate your proposal and make suggestions. The goal is to **formally structure your project ideas, develop a clear set of interrelated tasks, create documentation, and prepare for professional evaluation and feedback**.  
+
+---
+
+## **Task 1: Develop a Set of Issues for Milestone Tracking (GitHub Issues)**  
 - You will **create GitHub Issues** that break down the key tasks leading up to your **March 17 presentation**.  
 - Your issues should **map out the critical steps** needed to refine your proposal, research, and initial prototypes.  
 - **Each issue should include:**  
@@ -25,11 +28,30 @@ This week, you will **develop your project milestones** in preparation for your 
 4. **[Feedback] Conduct Peer Review** – Share project draft with classmates for early feedback.  
 5. **[Final Touch] Revise Presentation Based on Peer/Jurist Feedback** – Incorporate changes before March 17.  
 
-✅ **Deliverable:** **Create at least 5 GitHub Issues** that represent your **project milestones leading up to March 17**.  
+✅ **Deliverable:** **Create a set of GitHub Issues** that represent the tasks needed to fulfill each **project milestone** required to complete the March 17 presentation.  
 
 ---
 
-## Task 2: Develop a Detailed Proposal (Even If It’s Sketchy)  
+## **Task 2: Select or Create Milestones for Your Issues**  
+- Your GitHub issues should be assigned to the appropriate **milestones** in the **QuantumMusic Repository**.  
+- **Some milestones may already exist**, while others may need to be created.
+
+### **How to Assign an Issue to a Milestone**  
+1. Open your **GitHub Issue**.
+2. In the right-hand column, find the **“Milestone”** dropdown.
+3. Select an appropriate milestone **(e.g., March 17 Presentation, Proposal Refinement, or Research Phase).**  
+4. If no suitable milestone exists, create one by:
+   - Navigating to the **“Milestones”** tab in the repository.
+   - Clicking **“New Milestone”**.
+   - Naming the milestone appropriately (e.g., “March 17 Presentation” or “Proposal Refinement”).
+   - Setting a **due date** and **description** for the milestone.
+   - Saving the milestone and assigning it to your issue.  
+
+✅ **Deliverable:** Assign **each issue** to the most relevant milestone or create a new milestone if necessary.  
+
+---
+
+## **Task 3: Develop a Detailed Proposal (Even If It’s Sketchy)**  
 - This proposal will be the foundation of your **March 17 presentation**.  
 - Even if you don’t have all the details finalized, you should outline:  
   - **Project Concept**: What is your project about?  
@@ -46,7 +68,7 @@ This week, you will **develop your project milestones** in preparation for your 
 
 ---
 
-## Task 3: Scaffold Out Your README File  
+## **Task 4: Scaffold Out Your README File**  
 - Your **README.md** file should serve as the **project’s overview document**.  
 - This will help you **present your project more clearly** during your March 10 presentation.  
 - At a minimum, your README should include:  
@@ -76,3 +98,16 @@ This project explores AI-generated music and its integration with live performan
 - Link to Zotero Library  
 - Relevant academic papers  
 - Related GitHub projects  
+```
+
+✅ **Deliverable:** **Ensure your README.md is created and includes essential project details.**  
+
+---
+
+### **Final Submission Checklist**  
+✅ **Create structured GitHub Issues** for key project tasks.  
+✅ **Assign Issues to relevant milestones** (or create new ones if needed).  
+✅ **Submit a 2-page project proposal** for feedback.  
+✅ **Complete and update your README.md** for project clarity.  
+
+By completing these tasks, you will ensure that your project is well-structured, ready for professional evaluation, and set up for success on March 17. 🚀
