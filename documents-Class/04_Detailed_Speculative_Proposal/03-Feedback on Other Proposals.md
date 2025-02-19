@@ -1,6 +1,7 @@
 # **Instructions for Submitting Proposal Feedback on GitHub**
 
-Follow these steps to **submit structured feedback** on a classmate’s proposal using the GitHub Issue Template.
+You will submit feedback on every student's proposal as it stands.  
+Follow these steps to **submit structured feedback** on each classmate’s proposal using the GitHub Issue Template.  
 
 ---
 
@@ -8,9 +9,20 @@ Follow these steps to **submit structured feedback** on a classmate’s proposal
 1. **Log in to GitHub** at [GitHub.com](https://github.com).
 2. Navigate to the **MTEC4502 Repository**:  
    🔗 [MTEC4502 Repository](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S)
+
+### **Create an Issue process 1**
 3. Click on the **“Issues”** tab.
 4. Click on the green **“New Issue”** button.
 5. Select the **“Proposal Feedback Session”** template.
+
+### **Create an Issue Alternate process**  
+There are several ways to do create an issue: here is a second that is based on the Project Board.
+3. Select the "Projects" tab at the top of the repository
+4. Select the Project you are going to evaluate.
+5. In the Project page, click the "+" sign at the bottom of the leftmost column.
+6. Start typing the project name you are going to review.
+7. In the popup, select "Create a New Issue"
+8. Select the **“Proposal Feedback Session”** template.
 
 ---
 
@@ -21,6 +33,7 @@ Follow these steps to **submit structured feedback** on a classmate’s proposal
 ---
 
 ## **Step 3: Add the Issue to the _Other Student’s_ Project Board**
+(note: this will already be selected if you use the alternate process, but check to make sure anyway.
 1. On the right-hand side, find the **“Projects”** section.
 2. Click **“Add to a project”** and select the proposal author’s project board.
 3. This ensures your feedback is directly linked to their project for tracking.
