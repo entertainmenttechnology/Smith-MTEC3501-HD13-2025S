@@ -1,5 +1,5 @@
 # **MTEC 3501 – Precedent Research Assignment**
-### **Due Date:** [Insert Due Date]
+Created 2025-02-19, David B Smith
 
 ## **Introduction: What is Precedent Research?**
 As you transition from speculation into the design phase of your Culmination Presentation proposal, it is essential to ground your work in existing knowledge. **Precedent research** is the process of studying previous projects, technologies, and theoretical frameworks relevant to your work. By analyzing existing examples, you gain valuable insights into best practices, avoid common pitfalls, and build on established methodologies rather than reinventing the wheel. 
