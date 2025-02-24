@@ -3,6 +3,8 @@
 ## **Week 5 Class**
 This week is in person.  See you in V103!  We will also be sharing some materials via Zoom, so be prepared to demonstrate your project board and Management activity via that modality  
 
+---
+
 ### **Week 4 Assignment**
 
 Due: 2025-02-24  
@@ -47,8 +49,10 @@ Here is a link to the [Detailed Assignment](https://github.com/entertainmenttech
 
 I created an example proposal and placed it into David B. Student's folder. [Link](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/blob/main/projects/David-Student/DBStudent-Clamorous%20ELF%20Detailed%20Speculative%20Proposal.md)  
 
-Let me know if you have any questions!
+Let me know if you have any questions!  
+
 ---
+
 ## **Week 3 Feb 10 WILL BE IN PERSON**   
 
 ### Class Activity
