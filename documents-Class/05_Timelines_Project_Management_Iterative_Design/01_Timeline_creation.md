@@ -71,17 +71,23 @@ This guide provides step-by-step instructions on how to create milestones, assoc
 - Go to the **Projects** tab and open your project board.
 - Select the **Roadmap** view from the navigation menu on the project page.
 
-### 2. Place Milestones on the Roadmap
-- Milestones automatically appear on the roadmap if they are linked to issues on the project board.
-- Review the roadmap to ensure milestones are aligned with the project’s overall schedule.
+### 2. Set Start and End Dates for Issues
+1. Navigate to the **Table view** of your project board.
+2. Click on **+ Add field** (top right corner).
+3. Select **Date** as the field type.
+4. Name one field **Start Date** and another field **End Date**.
+5. Inside the project board, locate your issue and fill in the **Start Date** and **End Date** fields.
+   - The date format should be **YYYY-MM-DD** (e.g., "2025-02-25").
 
-### 3. Adjust Milestones
-- If a milestone's due date needs to change, click on the milestone marker on the roadmap.
-- Edit the due date as needed to reflect updated project timelines.
+### 3. Place Milestones on the Roadmap
+- Issues with start and end dates will automatically appear as bars on the roadmap.
+- Review the roadmap to ensure milestones and tasks are aligned with the project’s overall schedule.
+
+### 4. Adjust Milestones and Dates
+- If a milestone or task’s due date needs to change, click on the item marker on the roadmap.
+- Edit the date fields as needed to reflect updated project timelines.
 
 ---
-
-## Step 5: Track Progress and Make Adjustments
 
 ### 1. Monitor Progress
 - Regularly review the timeline to monitor progress toward milestones.
