@@ -1,4 +1,4 @@
-# MTEC 4502: Project Planning and Research Development Assignment  
+# MTEC 3501: Project Planning and Research Development Assignment  
 
 ## Week 3 Assignment: Structuring Milestones for the March 17 Presentation  
 **Created: 2025-02-11**  
