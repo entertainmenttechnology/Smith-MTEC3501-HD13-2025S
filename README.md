@@ -3,6 +3,7 @@
 ## **Week 5 Class**
 This week is in person.  See you in V103!  We will also be sharing some materials via Zoom, so be prepared to demonstrate your project board and Management activity via that modality  
 
+The Google Doc we are collaborating on can be found [here](https://docs.google.com/document/d/1sRqZ3h3i92Dw6U8cKZgi_KjgTbr03019x49mtbZEjRA/edit?usp=sharing)
 ---
 
 ### **Week 4 Assignment**
