@@ -7,8 +7,8 @@ Follow these steps to **submit structured feedback** on each classmate’s propo
 
 ## **Step 1: Access the Class Repository**
 1. **Log in to GitHub** at [GitHub.com](https://github.com).
-2. Navigate to the **MTEC4502 Repository**:  
-   🔗 [MTEC4502 Repository](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S)
+2. Navigate to the **MTEC3501 Repository**:  
+   🔗 [MTEC3501 Repository](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S)
 
 ### **Create an Issue process 1**
 3. Click on the **“Issues”** tab.
