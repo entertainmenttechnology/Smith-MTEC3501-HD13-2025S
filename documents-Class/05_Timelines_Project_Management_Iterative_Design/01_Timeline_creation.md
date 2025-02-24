@@ -1,4 +1,4 @@
-# How to Place Milestones onto a Project Board Timeline in GitHub
+# How to Place Milestones onto a Project Board Roadmap in GitHub
 
 ## Overview
 This guide provides step-by-step instructions on how to create milestones, associate issues with them, and place these milestones onto a project board timeline in GitHub. This process will help you visualize project progress and ensure that key deliverables are met on time.
@@ -65,18 +65,18 @@ This guide provides step-by-step instructions on how to create milestones, assoc
 
 ---
 
-## Step 4: Visualize Milestones on the Timeline
+## Step 4: Visualize Milestones on the Roadmap
 
-### 1. Access the Timeline View
+### 1. Access the Roadmap View
 - Go to the **Projects** tab and open your project board.
-- Select the **Timeline** view from the dropdown menu in the top-right corner of the project board.
+- Select the **Roadmap** view from the navigation menu on the project page.
 
-### 2. Place Milestones on the Timeline
-- Milestones automatically appear on the timeline if they are linked to issues on the project board.
-- Review the timeline to ensure milestones are aligned with the project’s overall schedule.
+### 2. Place Milestones on the Roadmap
+- Milestones automatically appear on the roadmap if they are linked to issues on the project board.
+- Review the roadmap to ensure milestones are aligned with the project’s overall schedule.
 
 ### 3. Adjust Milestones
-- If a milestone's due date needs to change, click on the milestone marker on the timeline.
+- If a milestone's due date needs to change, click on the milestone marker on the roadmap.
 - Edit the due date as needed to reflect updated project timelines.
 
 ---
@@ -96,7 +96,7 @@ This guide provides step-by-step instructions on how to create milestones, assoc
 
 ---
 
-## Best Practices for Using Milestones on a Project Board Timeline
+## Best Practices for Using Milestones on a Project Board Roadmap
 
 - **Break Down Large Milestones:** Divide large milestones into smaller, manageable tasks to ensure steady progress.
 - **Use Clear Descriptions:** Provide detailed descriptions for both milestones and issues to avoid ambiguity.
