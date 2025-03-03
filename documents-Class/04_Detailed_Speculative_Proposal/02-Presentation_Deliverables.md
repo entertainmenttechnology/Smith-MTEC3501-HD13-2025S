@@ -45,7 +45,7 @@ Each student should structure their **oral presentation** following this flow:
 - **Breakdown of key milestones in GitHub** (Research, Design, Produce, Publish, Assess)  
 - **Estimated timeline and development strategy**  
 
-### **🔹 5. Questions for Feedback (1 minute)**  
+### **🔹 5. Questions for Feedback (10 minute)**  
 - Areas where **feedback is needed** to refine the project  
 - Any **uncertainties about execution, scope, or research**  
 
