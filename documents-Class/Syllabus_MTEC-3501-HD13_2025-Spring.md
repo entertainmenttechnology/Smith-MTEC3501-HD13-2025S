@@ -163,10 +163,10 @@ _The topics and schedule are subject to change as needed. Assignment details and
 * Idea Incubator - Proposal Draft Development (continued)
 
 **WEEK 7: M March 10 (IN PERSON)**   
-* Panel 1 - Group A - Project Proposal Presentations 
+* Practice Proposal Presentations 
 
 **WEEK 8: M March 17 (IN PERSON)**   
-* Panel 1 - Group B - Project Proposal Presentations
+* Panel - Project Proposal Presentations
 
 **WEEK 9: M March 24 7 (ZOOM)**   
 * Developing a proof of concept / testable prototype
