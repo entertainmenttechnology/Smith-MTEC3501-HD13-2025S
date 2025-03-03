@@ -1,5 +1,9 @@
 ## README
 
+## **Week 6 Class**
+Today we meet on Zoom.  We will first meet briefly as a class, to look at our plans for creating the necessary materials for our presentation on March 17 (Week 8).  
+You should have a set of issues/milestones that will be needed to complete this phase of th eproject, and then I will split the class into individual sessions so you can show me where you are in your process, and I can provide some feedback.  Each person should receive about a half hour, and then we prep for next week, when we will do a mock run. Note that the next **TWO** classes will be in person.  We want to do our practice presentations in the same room using the same technology that we will use for the actual presentation, and we will all evaluate each other's presentations using the same forms that I will provide the jury.  
+
 ## **Week 5 Class**
 This week is in person.  See you in V103!  We will also be sharing some materials via Zoom, so be prepared to demonstrate your project board and Management activity via that modality  
 
