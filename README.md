@@ -1,5 +1,10 @@
 ## README
 
+## Week 8 Class
+I was proud of everyone at last weeks presentartions! You were all well prepared, and though everyone still has questions, we are all on a good path to completion.  
+
+Today is about receiving the faculty assessments, responding to these assessments, and then continuing to modify and develop your project.  Our next goal now it to identify what we will be demonstrating for the end of the semester: scope of the proof of concept, and then further refining our timeline to make sure that we are able to deliver appropriatey  
+
 ## **Week 6 Class**
 Today we meet on Zoom.  We will first meet briefly as a class, to look at our plans for creating the necessary materials for our presentation on March 17 (Week 8).  
 You should have a set of issues/milestones that will be needed to complete this phase of th eproject, and then I will split the class into individual sessions so you can show me where you are in your process, and I can provide some feedback.  Each person should receive about a half hour, and then we prep for next week, when we will do a mock run. Note that the next **TWO** classes will be in person.  We want to do our practice presentations in the same room using the same technology that we will use for the actual presentation, and we will all evaluate each other's presentations using the same forms that I will provide the jury.  
