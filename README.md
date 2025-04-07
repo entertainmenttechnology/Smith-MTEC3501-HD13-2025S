@@ -1,5 +1,11 @@
 ## README
 
+## Class April 7
+Good morning!  Today we meet on Zoom.  The focus of the remainder of the semester is to prep your projects for your presentations on **May 12**  You should read teh feedback, respond to the prompt in this [discussion](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/discussions/73).  Your evaluations can be found in your personal folders in this repository.  Today we continue to brainstorm, discuss and make suggestions about your project, and the deliverables that you need to provide as well.  
+
+See you on Zoom!  The number is always the same but here it is again: 649-104-8253.  
+
+
 ## Week 8 Class
 I was proud of everyone at last weeks presentartions! You were all well prepared, and though everyone still has questions, we are all on a good path to completion.  
 
