@@ -2,7 +2,7 @@
 
 ## Class Final Presentations
 
-You will be presenting your very worthy projects to the adjudicating panel on May 12.  Be sure that you have the presesntation, your proposal, (that includes the compponents discussed in the presentation compoennts document), and that this is either stored prominantly in your Github folder, or for you to link to it in the README for your project folder.  
+You will be presenting your very worthy projects to the adjudicating panel on May 12.  Be sure that you have the presesntation, your proposal, (that includes the compponents discussed in the presentation compoennts document), and that this is either stored prominantly in your Github folder, or for you to link to it in the README for your project folder.  Make sure to request to merge your branch with teh main branch as well.
 
 
 ## Class April 7
