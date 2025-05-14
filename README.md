@@ -1,5 +1,10 @@
 ## README
 
+## Class Final Presentations
+
+You will be presenting your very worthy projects to the adjudicating panel on May 12.  Be sure that you have the presesntation, your proposal, (that includes the compponents discussed in the presentation compoennts document), and that this is either stored prominantly in your Github folder, or for you to link to it in the README for your project folder.  
+
+
 ## Class April 7
 Good morning!  Today we meet on Zoom.  The focus of the remainder of the semester is to prep your projects for your presentations on **May 12**  You should read teh feedback, respond to the prompt in this [discussion](https://github.com/entertainmenttechnology/Smith-MTEC3501-HD13-2025S/discussions/73).  Your evaluations can be found in your personal folders in this repository.  Today we continue to brainstorm, discuss and make suggestions about your project, and the deliverables that you need to provide as well.  
 
